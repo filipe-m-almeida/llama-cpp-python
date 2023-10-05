@@ -1,3 +1,5 @@
+This version is using [jploski's llama.cpp fork](https://github.com/jploski/llama.cpp/tree/mpt) which supports [Mosaic's](https://www.mosaicml.com/) [MPT](https://www.mosaicml.com/mpt) models.
+
 # 🦙 Python Bindings for [`llama.cpp`](https://github.com/ggerganov/llama.cpp)
 
 [![Documentation Status](https://readthedocs.org/projects/llama-cpp-python/badge/?version=latest)](https://llama-cpp-python.readthedocs.io/en/latest/?badge=latest)
